@@ -1,15 +1,22 @@
-# 📊 A Power BI dashboard analyzing Bahrain’s import trends from 2020 to 2023.
+Here’s the corrected version of your text with improved clarity and grammar:  
 
+---
 
-# Overview
-This repository contains a Power BI dashboard that provides insights into Bahrain’s import trends over the years. It visualizes key trade patterns, top commodities, and importing countries.
+# 📊 A Power BI Dashboard Analyzing Bahrain’s Import Trends (2020–2023)  
 
+## Overview  
+This repository contains a Power BI dashboard that provides insights into Bahrain’s import trends from 2020 to 2023. It visualizes key trade patterns, top commodities, and major importing countries.  
 
-# Key Insights
-1. 📈 Total Import Growth (Year-over-Year Analysis)
-2. 🌎 Top Importing Countries (Quarterly Trends & Partners)
-3. 🏗 Key Imported Commodities & Categories
-4. 💰 Import Value & Weight Breakdown
+## Data Source & Data Cleaning  
+The data were collected from:  
+[Data.gov.bh](https://www.data.gov.bh/explore/?disjunctive.theme&sort=modified&q=import)  
+Four years of Bahrain's import data were combined into a single dataset, cleaned, and analyzed accordingly.  
+
+## Key Insights  
+1. 📈 **Total Import Growth** – Year-over-year analysis  
+2. 🌎 **Top Importing Countries** – Quarterly trends & trade partners  
+3. 🏗 **Key Imported Commodities & Categories**  
+4. 💰 **Import Value & Weight Breakdown**  
 
 
 # Metrics
