@@ -14,7 +14,8 @@ This repository contains a Power BI dashboard that provides insights into Bahrai
 
 # Metrics
 ![](Main_dashboard.png)
-
+# Brazil Imports shares
+![](Brazil_Dashboard.png)
 
 # Summary
 1. 
