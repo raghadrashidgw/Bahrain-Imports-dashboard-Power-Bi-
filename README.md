@@ -1,7 +1,3 @@
-Here’s the corrected version of your text with improved clarity and grammar:  
-
----
-
 # 📊 A Power BI Dashboard Analyzing Bahrain’s Import Trends (2020–2023)  
 
 ## Overview  
