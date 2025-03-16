@@ -13,7 +13,7 @@ This repository contains a Power BI dashboard that provides insights into Bahrai
 
 
 # Metrics
-![](Main_Dashboard.png)
+![](Main_dashboard.png)
 
 
 # Summary
