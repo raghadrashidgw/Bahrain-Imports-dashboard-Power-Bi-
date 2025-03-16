@@ -18,6 +18,6 @@ This repository contains a Power BI dashboard that provides insights into Bahrai
 ![](Brazil_Dashboard.png)
 
 # Summary
-1. 
-2. 
-3. 
+1. Bahrain’s total import cost (USD) has been increasing over the years, while YoY growth percentage shows fluctuations.
+2. Mineral products consistently account for the majority of total imports by weight (Kg).
+3. Key commodities like aluminum, gold, and machinery remain significant.
