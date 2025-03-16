@@ -6,7 +6,7 @@ This repository contains a Power BI dashboard that provides insights into Bahrai
 ## Data Source & Data Cleaning  
 The data were collected from:  
 [Data.gov.bh](https://www.data.gov.bh/explore/?disjunctive.theme&sort=modified&q=import)  
-Four years of Bahrain's import data were combined into a single dataset, cleaned, and analyzed accordingly.  
+Four years of Bahrain's import data were combined into a single dataset (2020-2023), cleaned and analyzed accordingly.  
 
 ## Key Insights  
 1. 📈 **Total Import Growth** – Year-over-year analysis  
