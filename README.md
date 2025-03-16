@@ -1,4 +1,4 @@
-#  A Power BI Dashboard Analyzing Bahrain’s Import Trends (2020–2023) 🇧🇭🚢🧭
+#  A Power BI Dashboard Analyzing Bahrain’s Import Trends (2020–2023) 🚢🧭
 
 ## Overview  
 This repository contains a Power BI dashboard that provides insights into Bahrain’s import trends from 2020 to 2023. It visualizes key trade patterns, top commodities, and major importing countries.  
@@ -17,7 +17,7 @@ Four years of Bahrain's import data were combined into a single dataset (2020-20
 
 # Metrics
 ![](Main_dashboard.png)
-# Brazil Imports shares 🇧🇷
+# Brazil Imports shares 
 ![](Brazil_Dashboard.png)
 
 # Summary
